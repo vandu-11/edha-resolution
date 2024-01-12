@@ -1,0 +1,5 @@
+branch-defaults:
+  default:
+    environment: Edha-env
+deploy:
+  artifact: C:\Users\KITS\Downloads\elastic.zip
